@@ -1,0 +1,28 @@
+<app-header></app-header>
+<div class="container">
+    <div class="table-responsive">
+        <table class="table table-bordered table-dark table-hover my-5">
+            <thead>
+                <tr>
+                    <th>SNo</th>
+                    <th class="w-25">Course Name</th>
+                    <th>Img</th>
+                    <th>Content</th>
+                    <th>Fees</th>
+                    <th>Days</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let courses of courses;let i=index">
+                    <td>{{i+1}}</td>
+                    <td>{{courses.name}}</td>
+                    <td><img src="assets/images/courses/{{courses.img}}" width="60px" ></td>
+                    <td>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto tempore iste illo? Sunt pariatur velit esse laboriosam at eligendi ut, officiis quos minus impedit sit eos nemo aperiam ipsam nam?</td>
+                    <td>{{courses.price}}</td>
+                    <td>{{courses.duration}}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+<app-footer></app-footer>

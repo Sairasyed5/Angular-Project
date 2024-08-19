@@ -1,0 +1,170 @@
+HTML
+CSS
+BOOTSTRAP
+JAVASCRIPT
+------------------
+Angular: Commands.....
+
+Angular:
+
+Angular JS VS Angular:
+->Google
+->Angular 2+version above..
+->Angular JS(1.0)
+
+=>Angular JS we write in the Javascript
+=>Only DesktopApplication
+
+
+=>Angular(Google) 2+versions =>Typescript(Microsoft)
+=>Current version 16V
+=>Every Years 2 Versions Realse
+=>Desktop and Mobile Applications
+
+=>Versions: 16.2.9
+
+--------------------------------------------------
+
+ANGULAR: 
+->Javascript Frame Work
+->Its a Single page Application
+->We write our Angular code in Typescript
+->Its support Desktop and Mobileapplications
+->Its maintained by Google
+
+->Angular is a TypeScript-based, free and open-source single-page web application framework led by the Angular Team at Google and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS.
+
+-------------------------------------------------------
+Pre Required Skills:
+HTML
+CSS
+
+JAVASCRIPT:
+
+var,let and const
+arrow functions
+Class
+Modules
+Spread Operator
+For of
+Filter
+find
+Array Methods
+Aarray and Objects
+Destructring
+Localstorage
+
+->.....
+
+--------------------------------------------
+Required Softwares:
+->Node JS->Local Server/Runtime Server->TypeScript ->Javascript
+->NPM ->Node Package Managar=>Install 3rd Party Librarys
+->Angular CLI->
+->Create Angular Project
+->Visuval Studio Code
+-----------------------------------------
+To Open Command Prompt:
+->To Find node Js: 
+node --version
+node -v
+
+->NPM:
+npm --version
+npm -v
+
+->To Find Angular CLI Versions:
+ng version
+
+->Uninstall Angular CLI:
+npm uninstall -g @angular/cli
+
+->INSTALL Angular CLI:
+Current Version: npm install -g @angular/cli
+old Version: npm install -g @angular/cli@15
+
+->Create Angular Project:
+ng new Project_Name
+
+
+->Run the Project:
+
+->ng serve
+->ng s
+->ng serve --open
+->ng s -o
+
+
+
+-----------------------------------
+->Angular Project
+->1. Module File
+->2.Componet (
+    .html,.css,.ts
+)
+
+-----------------------------------
+Class 2:
+->Static Design
+->Components Creation
+->Routing
+->HTML to ANGULAR Conversion Design
+->Bootstrap Instalation
+
+->How to Generate Components:
+    ->ng generate component home
+    ->ng generate component about-us
+    ->ng g c blog
+    ->ng g c services
+
+    ->home.component.html
+    ->home.component.css
+    ->home.component.ts
+    ->home.component.spect.ts
+
+
+
+->Components are reusable
+
+->Any 3rd Party Librarys:
+ npm install bootstrap
+ npm i bootstrap
+---------------------------------------
+
+
+
+
+
+
+Class-3:
+Typescript:
+Varibles
+Arrays
+Objects
+
+Bindings:
+
+
+Directives
+
+Validation
+
+API Instalation
+
+Service
+
+Lifecycle Methods
+
+@Input() and @Output()
+
+Promissess and Observables
+
+Angular Material
+
+Lazy Loading
+
+Guards
+
+Route Params
+
+Add To Cart
